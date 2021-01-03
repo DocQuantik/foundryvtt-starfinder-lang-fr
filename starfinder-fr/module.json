@@ -1,0 +1,24 @@
+{
+    "name": "starfinder-fr",
+    "title": "FR - Starfinder System",
+    "description": "<p>Add French (FRANCE) language to system starfinder Fvtt</p><p>Traduction des clés du system Starfinder [DocQuantic]</p>",
+    "author": "DocQuantic",
+    "esmodules": ["babele-register.js"],
+    "version": "1.0.1",
+    "minimumCoreVersion": "0.7.8",
+    "compatibleCoreVersion": "0.7.8",
+    "gridDistance": 1.5,
+    "gridUnits": "m",
+
+    "languages": [
+        {
+            "lang": "fr",
+            "name": "French (FRANCE)",
+            "path": "fr.json"
+        }
+    ],
+
+    "url": "https://gitlab.com/DocQuantic/foundryvtt-starfinder-lang-fr",
+    "manifest": "https://gitlab.com/DocQuantic/foundryvtt-starfinder-lang-fr/-/raw/main/starfinder-fr/module.json",
+    "download": "https://gitlab.com/DocQuantic/foundryvtt-starfinder-lang-fr/-/archive/main/foundryvtt-starfinder-lang-fr-main.zip"
+}

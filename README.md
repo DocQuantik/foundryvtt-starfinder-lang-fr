@@ -1,0 +1,2 @@
+# foundryvtt-starfinder-lang-fr
+ 
