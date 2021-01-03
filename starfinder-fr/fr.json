@@ -206,7 +206,7 @@
                     "HP": "PV",
                     "Stamina": "Endurance",
                     "SP": "PE",
-                    "Resolve": "Résolution",
+                    "Resolve": "Persévérance",
                     "RP": "PR",
                     "BaseAttackBonus": "Bonus de base à l'attaque",
                     "BAB": "BBA",
@@ -1393,7 +1393,7 @@
         "RepairDroneDialogRepairButton": "Réparation",
         "RepairDroneDialogTitle": "Réparation du drone",
         "RepairDroneUnnecessary": "{name} est déjà au maximum de points de vie, aucune réparation n'est nécessaire.",
-        "Resolve": "Résolution",
+        "Resolve": "Persévérance",
         "RestButton": "Repos",
         "RestCancel": "Annuler",
         "RestL": "Repos L",
@@ -1784,7 +1784,7 @@
             "Actions": {
                 "Header": {
                     "Phase": "Phase",
-                    "ResolvePoints": "Resolve Points"
+                    "ResolvePoints": "Points de persévérence"
                 },
                 "Tooltips": {
                     "NormalEffect": "Normal effect",
@@ -1925,7 +1925,7 @@
                 "HeavySlots": "Lourde : {current} / {max}",
                 "LightSlots": "Légère : {current} / {max}",
                 "NotAvailable": "Indisponible",
-                "NotMounted": "Unmounted weapons",
+                "NotMounted": "Armes non montées",
                 "PortArc": "Arc bâbord ({slots})",
                 "StarboardArc": "Arc tribord ({slots})",
                 "Turret": "Tourelles ({slots})"
